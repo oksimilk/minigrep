@@ -1,3 +1,7 @@
+//! # Minigrep
+//!
+//! Make a grep with the fastest tool
+
 use std::env;
 use std::error::Error;
 use std::fs;
